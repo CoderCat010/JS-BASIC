@@ -14,6 +14,11 @@
 // ?automatic conversion
 
 /** string to number */
-let num = '13';
-console.log(Number(num));
+// let strTonum = '13';
+// console.log(Number(strTonum));
+
+// /** number to string */
+// let numTostr = 13;
+// console.log(String(numTostr));
+
 
