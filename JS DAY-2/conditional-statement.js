@@ -92,11 +92,24 @@
 /**
  * একটি স্ট্রিং ফাঁকা কিনা তা চেক করো।
 **/
-var checkEmptyStr = 'fffffefeffffffffffffffffffffffffffffff';
+// var checkEmptyStr = 'fffffefeffffffffffffffffffffffffffffff';
 
-if(checkEmptyStr == ''){
-    console.log('its empty string');
-}
-else{
-    console.log('its not empty');
-}
+// if(checkEmptyStr == ''){
+//     console.log('its empty string');
+// }
+// else{
+//     console.log('its not empty');
+// }
+
+
+/**
+ * একটি সংখ্যা ১০–২০ এর মধ্যে কিনা পরীক্ষা করো।
+ */
+// var checkNum = 13;
+
+// if(checkNum < 20 && checkNum > 10){
+//     console.log('perfect!');
+// }
+// else{
+//     console.log('input a valid digit...');
+// }
