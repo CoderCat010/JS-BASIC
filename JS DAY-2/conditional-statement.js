@@ -79,7 +79,7 @@
 /**
  * একটি স্ট্রিং এর লম্বা ৫ এর বেশি কিনা চেক করো।
 **/
-// var checkStrLength = 'nhn'
+// var checkStrLength = 'nhn';
 
 // if(checkStrLength.length > 5){
 //     console.log('yes! its greater than 5');
@@ -112,4 +112,18 @@
 // }
 // else{
 //     console.log('input a valid digit...');
+// }
+
+
+/**
+ * কোনো নাম "a" দিয়ে শুরু হলে "Starts with A" দেখাও।
+ */
+
+// var StartwithA = 'ayat';
+
+// if (StartwithA[0].toUpperCase() === 'A'){
+//     console.log('starts with a');
+// }
+// else{
+//     console.log('does not start with a');
 // }
