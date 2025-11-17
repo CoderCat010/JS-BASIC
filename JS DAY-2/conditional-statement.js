@@ -145,14 +145,37 @@
 /**
  * তিন সংখ্যার মধ্যে প্রথম দুইটি যোগ করা হলে ১০ হয় কিনা দেখাও।
  */
-var num1 = 5;
-var num2 = 5;
-var num3 = 10;
-var additionNum = num1 + num2
+// var num1 = 5;
+// var num2 = 5;
+// var num3 = 10;
+// var additionNum = num1 + num2
 
-if(additionNum == 10){
-    console.log('true');
-}
-else{
-    console.log('false');
-}
+// if(additionNum == 10){
+//     console.log('true');
+// }
+// else{
+//     console.log('false');
+// }
+
+
+/**
+ * তিনটি সংখ্যার মধ্যে মধ্যম সংখ্যা বের করো।
+ */
+// var num1 = 14;
+// var num2 = 10;
+// var num3 = 1;
+
+// if((num1 > num2 && num1 < num3) || (num1 < num2 && num1 > num3)){
+//     console.log('middle number is:', num1);
+// }
+// else if((num2 > num1 && num2 < num3) || (num2 < num1 && num2 > num3)){
+//     console.log('middle number is:', num2);
+// }
+// else{
+//     console.log('middle number is:', num3);
+// }
+
+
+/**
+ * দুইটি string একই কিনা চেক করো।
+ */
