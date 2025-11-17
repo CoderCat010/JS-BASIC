@@ -140,3 +140,19 @@
 // else{
 //     console.log('short'); 
 // }
+
+
+/**
+ * তিন সংখ্যার মধ্যে প্রথম দুইটি যোগ করা হলে ১০ হয় কিনা দেখাও।
+ */
+var num1 = 5;
+var num2 = 5;
+var num3 = 10;
+var additionNum = num1 + num2
+
+if(additionNum == 10){
+    console.log('true');
+}
+else{
+    console.log('false');
+}
