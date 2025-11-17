@@ -127,3 +127,16 @@
 // else{
 //     console.log('does not start with a');
 // }
+
+
+/**
+ * স্ট্রিং লম্বা বেশি হলে “Long”, না হলে “Short”।
+ */
+// var strlengthCheck = 'rfm'
+
+// if(strlengthCheck.length > 10){
+//     console.log('long');
+// }
+// else{
+//     console.log('short'); 
+// }
