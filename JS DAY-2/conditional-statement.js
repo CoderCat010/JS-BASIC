@@ -87,3 +87,16 @@
 // else{
 //     console.log('less than 5');
 // }
+
+
+/**
+ * একটি স্ট্রিং ফাঁকা কিনা তা চেক করো।
+**/
+var checkEmptyStr = 'fffffefeffffffffffffffffffffffffffffff';
+
+if(checkEmptyStr == ''){
+    console.log('its empty string');
+}
+else{
+    console.log('its not empty');
+}
