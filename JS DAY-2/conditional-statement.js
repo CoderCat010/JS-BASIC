@@ -29,3 +29,31 @@
 // else{
 //     console.log('odd');
 // }
+
+
+/**
+ * সংখ্যা ০ হলে “Zero”, ০ এর বেশি হলে “Positive”, নইলে “Negative”।
+**/
+// var posNeg = -5;
+
+// if(posNeg == 0){
+//     console.log('zero')
+// }
+// else if(posNeg > 0){
+//         console.log('positve');
+//     }
+// else{
+//     console.log('negative');
+// }
+
+// var posNeg = -5;
+// if (posNeg == 0){
+//     console.log('zero');
+// }
+// else{
+//     if(posNeg > 0){
+//         console.log('positive');
+//     }else{
+//         console.log('negative');
+//     }
+// }
