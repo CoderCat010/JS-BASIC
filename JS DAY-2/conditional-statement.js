@@ -74,3 +74,16 @@
 // else{
 //     console.log('enter valid number');
 // }
+
+
+/**
+ * একটি স্ট্রিং এর লম্বা ৫ এর বেশি কিনা চেক করো।
+**/
+// var checkStrLength = 'nhn'
+
+// if(checkStrLength.length > 5){
+//     console.log('yes! its greater than 5');
+// }
+// else{
+//     console.log('less than 5');
+// }
