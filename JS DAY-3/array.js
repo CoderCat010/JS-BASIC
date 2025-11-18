@@ -7,9 +7,18 @@
 
 //------------ARRAY METHODS AND PROPERTIES--------------
 // !adding methods
-var additems = ['hh', 'hj', 'njdn'];
-var addnewitems = additems.push('fdf', 'dfdfd');
-console.log(additems);
+// var additemslast = ['hh', 'hj', 'njdn'];
+// var addnewitemslast = additemslast.push('fdf', 'dfdfd');
+// console.log(additemslast);
+
+
+var addItemsfromFirst = [44, 66, 22, 3, 8];
+var addnewItemsfromFirst = addItemsfromFirst.unshift(2, 6);
+
+console.log(addnewItemsfromFirst);
+console.log(addItemsfromFirst);
+
+
 
 
 
