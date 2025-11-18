@@ -4,9 +4,14 @@
 // console.log(RemoveitemsfromLast);
 
 
-var RemoveitemsfromFirst = [9, 8, 10, 3];
-RemoveitemsfromFirst.shift();
-console.log(RemoveitemsfromFirst);
+// var RemoveitemsfromFirst = [9, 8, 10, 3];
+// RemoveitemsfromFirst.shift();
+// console.log(RemoveitemsfromFirst);
+
+
+var RemoveitemsfromAnywhere = [9, 8, 10, 3];
+RemoveitemsfromAnywhere.splice(2, 1);
+console.log(RemoveitemsfromAnywhere);
 
 
 
