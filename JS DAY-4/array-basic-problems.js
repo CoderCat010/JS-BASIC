@@ -24,3 +24,7 @@
 var addValue = [2, 4, 5, 6];
 var adding = addValue.push(8, 9);
 console.log(addValue);
+
+var addValue = [2, 4, 5, 6];
+var adding = addValue.unshift(8, 9);
+console.log(addValue);
