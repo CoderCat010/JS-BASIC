@@ -21,18 +21,22 @@
  * একটি array থেকে প্রথম value মুছে ফেলো (shift)
  * একটি array এর কপি তৈরি করো (slice)
  */
-var addValue = [2, 4, 5, 6];
-var adding = addValue.push(8, 9);
-console.log(addValue);
+// var addValue = [2, 4, 5, 6];
+// var adding = addValue.push(8, 9);
+// console.log(addValue);
 
-var addValue = [2, 4, 5, 6];
-var adding = addValue.unshift(8, 9);
-console.log(addValue);
+// var addValue = [2, 4, 5, 6];
+// var adding = addValue.unshift(8, 9);
+// console.log(addValue);
 
-var addValue = [2, 4, 5, 6];
-var adding = addValue.pop();
-console.log(addValue);
+// var addValue = [2, 4, 5, 6];
+// var adding = addValue.pop();
+// console.log(addValue);
 
-var addValue = [2, 4, 5, 6];
-var adding = addValue.shift();
-console.log(addValue);
+// var addValue = [2, 4, 5, 6];
+// var adding = addValue.shift();
+// console.log(addValue);
+
+// var addValue = [2, 4, 5, 6];
+// var adding = addValue.slice(1, 3);
+// console.log(adding);
