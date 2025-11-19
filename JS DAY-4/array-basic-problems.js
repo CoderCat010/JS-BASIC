@@ -9,3 +9,6 @@
 
 
 
+// একটি array এর সব উপাদানকে একসাথে string এ join করো
+var joinStr = [1, 3, 5, 6];
+console.log(joinStr.join('+'));
