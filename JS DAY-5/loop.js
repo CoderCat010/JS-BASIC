@@ -16,13 +16,13 @@
 // console.log(sum);
 
 
-let i= 1;
-let sum = 1;
-while(i <= 10){
-   sum *= i;
-   i++ 
-//    console.log(sum);
-}
-console.log(sum);
+// let i= 1;
+// let sum = 1;
+// while(i <= 10){
+//    sum *= i;
+//    i++ 
+// //    console.log(sum);
+// }
+// console.log(sum);
 
 
