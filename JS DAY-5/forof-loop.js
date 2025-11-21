@@ -22,4 +22,11 @@
 // }
 
 
+let nums = ['dd', 'ddd', 'jj', 'j', 'l', 'g', 'k'];
 
+for (let item of nums) {
+    if (item === 'dd' || item === 'j') {
+        continue;
+    }
+    console.log(item);
+}
