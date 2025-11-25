@@ -11,7 +11,11 @@
 // console.log(getStr.includes('J', 6)); //eta case sensitive tai upercase lowercase kore nite hoy.
 
 
-// startsWith
-let Str = 'im batman!, i live in the shadows!!!!';
-console.log(Str.startsWith('im'));
+// // startsWith ----- eta case sensitive tai upercase lowercase kore nite hoy.
+// let Str = 'im batman!, i live in the shadows!!!!';
+// console.log(Str.startsWith('im'));
+// console.log(Str.startsWith('in', 20));
+
+
+// 
 
