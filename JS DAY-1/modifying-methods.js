@@ -14,6 +14,12 @@
 // console.log(str1.trim());
 
 
-// repeat
-let str1 = 'buwaha';
-console.log(str1.repeat(3));
+// // repeat
+// let str1 = 'buwaha';
+// console.log(str1.repeat(3));
+
+
+// // split
+// let str = 'apple, banana, cherry';
+// console.log(str.split(''));
+// console.log(str.split(',', 2));
