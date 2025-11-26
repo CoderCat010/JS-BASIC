@@ -14,3 +14,6 @@
 
 
 
+// charAt
+let str = 'hello mr batman';
+console.log(str.charAt(3));

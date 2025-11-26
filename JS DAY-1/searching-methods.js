@@ -12,9 +12,9 @@
 
 
 // // startsWith ----- eta case sensitive tai upercase lowercase kore nite hoy.
-let Str = 'im batman!, i live in the shadows!!!!';
-console.log(Str.startsWith('im'));
-console.log(Str.startsWith('in', 20));
+// let Str = 'im batman!, i live in the shadows!!!!';
+// console.log(Str.startsWith('im'));
+// console.log(Str.startsWith('in', 20));
 
 
 
