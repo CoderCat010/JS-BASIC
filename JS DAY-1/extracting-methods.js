@@ -4,3 +4,13 @@
 // console.log(str.slice(9));
 // console.log(str.slice(-9, -2));
 
+// substring
+// substr
+// let getStr = 'amar sonar bangla';
+// console.log(getStr.substring(0, 4));
+
+// let getStr = 'DJDJJDD';
+// console.log(getStr.substr(1, 2));
+
+
+
