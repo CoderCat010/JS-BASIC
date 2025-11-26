@@ -12,3 +12,8 @@
 // // trim
 // let str1 = '   hello   ';
 // console.log(str1.trim());
+
+
+// repeat
+let str1 = 'buwaha';
+console.log(str1.repeat(3));
