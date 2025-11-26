@@ -23,3 +23,9 @@
 // let str = 'apple, banana, cherry';
 // console.log(str.split(''));
 // console.log(str.split(',', 2));
+
+
+// join
+let arr = ['red', 'green', 'blue'];
+console.log(arr.join('-'));
+console.log(arr.join(''));
