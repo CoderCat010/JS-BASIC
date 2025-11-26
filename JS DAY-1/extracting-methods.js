@@ -4,7 +4,7 @@
 // console.log(str.slice(9));
 // console.log(str.slice(-9, -2));
 
-// substring
+// // substring
 // substr
 // let getStr = 'amar sonar bangla';
 // console.log(getStr.substring(0, 4));
@@ -14,6 +14,7 @@
 
 
 
-// charAt
-let str = 'hello mr batman';
-console.log(str.charAt(3));
+// // charAt
+// let str = 'hello mr batman';
+// console.log(str.charAt(3));
+
