@@ -54,3 +54,15 @@
 // console.log(parseFloat(b)); // // ekhane jodi string er surute number na thake tahole parseFloat NaN return korbe.
 // console.log(parseFloat(c));
 // console.log(parseFloat(e));
+
+
+
+// // parseInt()
+let a = '123abc';
+let b = 'abc123';                
+let c = '123.45';
+let e = '123.45.67';
+console.log(parseInt(a));
+console.log(parseInt(b)); // // ekhane jodi string er surute number na thake tahole parseInt NaN return korbe.
+console.log(parseInt(c));
+console.log(parseInt(e));
