@@ -17,3 +17,16 @@
 // }else{
 //     console.log('ja vag mokbul');
 // }
+
+
+// const isGraduated = true;
+// const isEmployed = true;
+// const isSalary = 60000;
+// const height = 160;
+
+// if((isGraduated == true && isEmployed == true)|| (isSalary > 50000 && height >= 170)){
+//     console.log('asho baba kobul!');
+// }else{
+//     console.log('ja vag mokbul');
+// }  
+
