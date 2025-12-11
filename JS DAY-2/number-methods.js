@@ -18,3 +18,17 @@
 // console.log(isFinite(b));
 // console.log(isFinite(c));
 // console.log(Number.isFinite(c)); // // ekhane type check korce but number e convert korce na etai niom je jokhon amra type check korbo tokhon amake Number.isFinite use korte hobe.r jokhon amara type check korbo na tokhon amra isFinite use korte parbo tokhon true dekhabe karon isfinite automatic type conversion kore ney.
+
+
+// // isInteger
+// let a = 123;
+// let b = 123.45;
+// let c = '123';
+// let d = Infinity;
+// let e = NaN;
+// // console.log(isInteger(a)); // ekhane isInteger use korle error dekhabe karon isInteger holo Number er method. tai amake Number er sathe use korte hobe. isinteger sorasori use kora jay na.
+// console.log(Number.isInteger(a));
+// console.log(Number.isInteger(b));
+// console.log(Number.isInteger(c));
+// console.log(Number.isInteger(d));
+// console.log(Number.isInteger(e));
