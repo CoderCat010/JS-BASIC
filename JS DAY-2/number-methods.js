@@ -26,9 +26,20 @@
 // let c = '123';
 // let d = Infinity;
 // let e = NaN;
-// // console.log(isInteger(a)); // ekhane isInteger use korle error dekhabe karon isInteger holo Number er method. tai amake Number er sathe use korte hobe. isinteger sorasori use kora jay na.
+//console.log(isInteger(a)); // // ekhane isInteger use korle error dekhabe karon isInteger holo Number er method. tai amake Number er sathe use korte hobe. isinteger sorasori use kora jay na.
 // console.log(Number.isInteger(a));
 // console.log(Number.isInteger(b));
 // console.log(Number.isInteger(c));
 // console.log(Number.isInteger(d));
 // console.log(Number.isInteger(e));
+
+
+
+// // isNaN()
+// let a = 123;
+// let b = 'hello';
+// let c = NaN; 
+// console.log(isNaN(a)); // // ekhane isNaN use korle error dekhabe karon isNaN holo Number er method. tai amake Number er sathe use korte hobe. isNaN sorasori use kora jay na.
+// console.log(Number.isNaN(a));
+// console.log(Number.isNaN(b)); // // eikahne number e convert korce tai false dekhacce karon convert hoye seta number hoto. kintu jodi sudhu isNaN use kortam tahole true dekhato kaorn hello asholei tokhon number hoto na.
+// console.log(Number.isNaN(c));
