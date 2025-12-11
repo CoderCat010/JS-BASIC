@@ -43,3 +43,14 @@
 // console.log(Number.isNaN(a));
 // console.log(Number.isNaN(b)); // // eikahne number e convert korce tai false dekhacce karon convert hoye seta number hoto. kintu jodi sudhu isNaN use kortam tahole true dekhato kaorn hello asholei tokhon number hoto na.
 // console.log(Number.isNaN(c));
+
+
+// // parseFloat()
+// let a = '123.45abc';
+// let b = 'abc123.45';
+// let c = '123.45';
+// let e = '123.45.67';
+// console.log(parseFloat(a));
+// console.log(parseFloat(b)); // // ekhane jodi string er surute number na thake tahole parseFloat NaN return korbe.
+// console.log(parseFloat(c));
+// console.log(parseFloat(e));
