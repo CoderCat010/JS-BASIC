@@ -7,3 +7,13 @@
 // }else{
 //     console.log('ami biya korum naaaaa!!!');
 // }
+
+
+// const isGraduated = false   ;
+// const isEmployed = false;
+
+// if(isGraduated == true || isEmployed == true){
+//     console.log('asho baba kobul!');
+// }else{
+//     console.log('ja vag mokbul');
+// }
