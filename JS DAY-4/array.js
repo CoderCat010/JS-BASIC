@@ -10,8 +10,12 @@
 // console.log(num[2]);
 
 
-let num = [1, 3, 3, 4, 5, 6];
-let changeElmByindex = 2;
-num[1] = changeElmByindex;
-console.log(num);
+// let num = [1, 3, 3, 4, 5, 6];
+// let changeElmByindex = 2;
+// num[1] = changeElmByindex;
+// console.log(num);
 
+
+// let x = [1, 2, 3, 4, 5];
+// x.push('fvfv', 'jnvjfnv');
+// console.log(x);
