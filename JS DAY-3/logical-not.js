@@ -5,9 +5,9 @@
 //     console.log('nah ghumai!!!');
 // }
 
-let passed = false;
-if(!!passed){
-    console.log('ENGINEERING PORBO');
-}else{
-    console.log('MURI KHA');
-}
+// let passed = false;
+// if(!!passed){
+//     console.log('ENGINEERING PORBO');
+// }else{
+//     console.log('MURI KHA');
+// }
