@@ -19,3 +19,8 @@
 // let x = [1, 2, 3, 4, 5];
 // x.push('fvfv', 'jnvjfnv');
 // console.log(x);
+
+
+let y = [1, 22,  4,  8];
+y.pop();
+console.log(y);
