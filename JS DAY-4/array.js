@@ -21,6 +21,12 @@
 // console.log(x);
 
 
+// let y = [1, 22,  4,  8];
+// y.pop();
+// console.log(y);
+
+
 let y = [1, 22,  4,  8];
-y.pop();
+y.unshift(2);
 console.log(y);
+
