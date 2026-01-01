@@ -1,10 +1,14 @@
 // JS METHODS 
 // Data adding methods
 
-// push()
-let x = [1, 2, 3, 4]
-console.log(x.push());
+// push() // removig from last
+// let x = [1, 2, 3, 4]
+// console.log(x.push()); 
 
+
+// unshift()
+let x = [1 ,2, 3, 4];
+console.log(x.unshift());
 
 
 
@@ -16,7 +20,7 @@ console.log(x.push());
 
 // shift()
 
-// unshift()
+
 
 // splice()
 
