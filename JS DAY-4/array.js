@@ -31,9 +31,9 @@
 // console.log(y);
 
 
-let y = [1, 22,  4,  8];
-y.shift();
-console.log(y);
+// let y = [1, 22,  4,  8];
+// y.shift();
+// console.log(y);
 
 
 
