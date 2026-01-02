@@ -27,7 +27,7 @@
 // console.log(x.slice(1, 3));
 
 
-// FINDING ELEMENT M
+// FINDING ELEMENT ME
 // // index
 // let x = [1, 2, 3, 4, 5, 6];
 // console.log(x[0]);
