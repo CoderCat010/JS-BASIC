@@ -28,8 +28,16 @@
 
 
 // FINDING ELEMENTS
+
+// // index
+// let x = [1, 2, 3, 4, 5, 6];
+// console.log(x[0]);
+
+
+// finding from last
 let x = [1, 2, 3, 4, 5, 6];
-console.log(x[0]);
+console.log(x.indexOf(5)); // nidrishto element ta ache kina seta dekhay thakle tar position dekhay na thakle -1 dekhabe
+
 
 
 
