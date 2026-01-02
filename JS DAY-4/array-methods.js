@@ -1,5 +1,5 @@
 // JS METHODS 
-//-------
+//-------ADDING METHODS
 
 // // push() 
 // let x = [1, 2, 3, 4]
