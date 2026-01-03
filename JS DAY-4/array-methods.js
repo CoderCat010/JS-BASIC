@@ -4,11 +4,6 @@
 // let x = [1, 2, 3, 4, 5]
 // console.log(x.length);
 
-let z = ['apple', 'banana', 'grape', 'kiwi', 'mango', 'apple'];
-console.log(z.sort());
-
-
-
 
 //----------ADDING ELEMMMENT METHOHDS----------
 // // push -- adding from last
