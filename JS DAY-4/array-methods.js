@@ -7,8 +7,6 @@
 let z = ['apple', 'banana', 'grape', 'kiwi', 'mango', 'apple'];
 console.log(z.sort());
 
-let nums = [10, 2, 5];
-console.log(nums.sort());
 
 
 
