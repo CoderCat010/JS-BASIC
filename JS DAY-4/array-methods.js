@@ -4,18 +4,7 @@
 // let x = [1, 2, 3, 4, 5]
 // console.log(x.length);
 
-let z = ['apple', 'banana', 'grape', 'kiwi', 'mango', 'apple'];
-console.log(z.sort());
 
-let nums = [10, 2, 5];
-console.log(nums.sort());
-
-let ages = [12, 18, 25, 10];
-let adults = ages.filter(a => a>=18);
-console.log(adults);
-
-let total = ages.reduce((sum,a)=>sum+a,0);
-console.log(total);
 
 //----------ADDING ELEMMMENT METHOHDS----------
 // // push -- adding from last
