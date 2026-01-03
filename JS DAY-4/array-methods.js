@@ -4,6 +4,11 @@
 // let x = [1, 2, 3, 4, 5]
 // console.log(x.length);
 
+let z = ['apple', 'banana', 'grape', 'kiwi', 'mango', 'apple'];
+console.log(z.sort());
+
+let nums = [10, 2, 5];
+console.log(nums.sort());
 
 
 //----------ADDING ELEMMMENT METHOHDS----------
