@@ -20,6 +20,14 @@
 // console.log(x); // // puro array ta dekhacce sathe length o dekhacce
 
 
+// //----------REMOVING ELEMMMENT METHOHDS----------
+
+// // pop -- removing from last
+let x = [1, 2, 3, 4, 5];
+x.pop();
+console.log(x);
+
+
 
 
 
