@@ -26,6 +26,8 @@
 let x = [1, 2, 3, 4, 5];
 x.pop();
 console.log(x);
+console.log(x.pop()); // ekhane x.pop mane last theke ekta value remove korbe ar sei sathe notun array er length ta return korbe.
+
 
 
 
