@@ -17,7 +17,7 @@
 // // unshift --- adding from first
 // let x = [1, 2, 3, 4, 5]; 
 // x.unshift(0); 
-// console.log(x); // puro array ta dekhacce sathe length o dekhacce
+// console.log(x); // // puro array ta dekhacce sathe length o dekhacce
 
 
 
