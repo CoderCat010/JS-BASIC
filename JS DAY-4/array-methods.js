@@ -31,6 +31,12 @@
 
 
 
+// // shift -- removing from first
+// let x = [1, 2, 3, 4, 5];
+// x.shift();
+// console.log(x);
+// console.log(x.shift()); // ekhane x.shift mane first theke ekta value remove korbe ar sei value ta return korbe.
+// console.log(x); // ekhane dekhacce first theke 2 ta value remove hoise tai array te 3 ta value ase.
 
 
 
