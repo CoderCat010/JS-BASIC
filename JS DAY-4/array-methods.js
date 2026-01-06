@@ -97,6 +97,20 @@
 // console.log(x.join(' '));
 // console.log(x.join('-'));
 
+
+
+// //----------ARRAY CONVERTING METHOHDS----------        
+// // toString
+const fruits = [1, 2, 3, 4, 5];
+let myList = fruits.toString(); 
+console.log(myList);
+console.log(typeof myList);
+
+
+
+
+
+
       
 
 
