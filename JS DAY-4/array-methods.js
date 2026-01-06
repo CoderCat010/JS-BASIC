@@ -77,15 +77,26 @@
 
 //----------ARRAY COMBINING METHOHDS----------        
 // // concat
-let a = [1, 2, 3];
-let b = [4, 5, 6];
-console.log(a.concat(b)); 
+// let a = [1, 2, 3];
+// let b = [4, 5, 6];
+// console.log(a.concat(b)); 
 
-let c = ['a', 'b', 'c'];
-console.log(a.concat(b, c)); 
-                        
-let d = [7, 8, 9];
-console.log(a.concat(b, c, d));
+// let c = ['a', 'b', 'c'];
+// console.log(a.concat(b, c)); 
+
+// let d = [7, 8, 9];
+// console.log(a.concat(b, c, d));
+
+// // join
+let x = [1, 2, 3, 4, 5];
+console.log(x.join()); // default vabe comma diye join kore 
+console.log(x.join('')); 
+console.log(x.join(' ABC '));
+console.log(x.join(' 123 '));
+console.log(x.join('***'));
+console.log(x.join(' '));
+console.log(x.join('-'));
+
 
 
 
