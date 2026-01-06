@@ -9,7 +9,8 @@
 
 // push -- adding from last
 let x = [1, 2, 3, 4, 5];
-x 
 x.push(6)
-console.log(x);
+console.log(x); // puro array ta dekhacce 
+console.log(x.push(7)); // ekhane x.push mane notun value ta add korbe ar sei sathe notun array er length ta return korbe. 
+
 
