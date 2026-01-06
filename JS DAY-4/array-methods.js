@@ -45,6 +45,12 @@
 // console.log(y.indexOf('ghi'));
 
 // // includes 
+let x = [1, 2, 3, 4, 5];
+console.log(x.includes(9));
+let y = ['abc', 'def', 'ghi', 'jkl'];
+console.log(y.includes('e')); // includes method entire element ta check kore, tar moddhe kono part check kore na. tai ekhane false return korbe. jodi 'def' check kortam tahole true return korto karon eta puro ekta element r e hocce element er ekta part o e ke ekta element hishbe dhorce but jeta ekhane check korsi seta puro element na tai false. ba onno vabe bola jay je o puro element ta check kore element er moddhe kono part check kore na.
+
+
 
 
 
