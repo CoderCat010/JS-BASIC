@@ -42,10 +42,10 @@
 //----------SEARCHING ELEMMMENT METHOHDS----------
 
 // // indexOf -- searching element index
-let x = [1, 2, 3, 4, 5];
-let y = ['abc', 'def', 'ghi', 'jkl'];
-console.log(x.indexOf(33));
-console.log(y.indexOf('ghi'));
+// let x = [1, 2, 3, 4, 5];
+// let y = ['abc', 'def', 'ghi', 'jkl'];
+// console.log(x.indexOf(33)); // jodi kono element na thake tahole -1 return korbe
+// console.log(y.indexOf('ghi'));
 
 
 
