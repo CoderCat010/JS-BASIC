@@ -75,6 +75,20 @@
 
 
 
+//----------ARRAY COMBINING METHOHDS----------        
+// // concat
+let a = [1, 2, 3];
+let b = [4, 5, 6];
+console.log(a.concat(b)); 
+
+let c = ['a', 'b', 'c'];
+console.log(a.concat(b, c)); 
+                        
+let d = [7, 8, 9];
+console.log(a.concat(b, c, d));
+
+
+
 
 
 
