@@ -11,22 +11,25 @@
 // let x = [1, 2, 3, 4, 5];
 // x.push(6)
 // console.log(x); // puro array ta dekhacce 
-// console.log(x.push(7)); // // ekhane x.push mane notun value ta add korbe ar sei sathe notun array er length ta return korbe. 
+// console.log(x.push(7)); // ekhane x.push mane notun value ta add korbe ar sei sathe notun array er length ta return korbe. 
 
 
 // // unshift --- adding from first
 // let x = [1, 2, 3, 4, 5]; 
 // x.unshift(0); 
-// console.log(x); // // puro array ta dekhacce sathe length o dekhacce
+// console.log(x); // puro array ta dekhacce sathe length o dekhacce
 
 
-// //----------REMOVING ELEMMMENT METHOHDS----------
+//----------REMOVING ELEMMMENT METHOHDS----------
 
 // // pop -- removing from last
-let x = [1, 2, 3, 4, 5];
-x.pop();
-console.log(x);
-console.log(x.pop()); // ekhane x.pop mane last theke ekta value remove korbe ar sei sathe notun array er length ta return korbe.
+// let x = [1, 2, 3, 4, 5];
+// x.pop();
+// console.log(x);
+// console.log(x.pop()); // ekhane x.pop mane last theke ekta value remove korbe ar sei value ta return korbe.
+// console.log(x); // ekhane dekhacce last theke 2 ta value remove hoise tai array te 3 ta value ase.
+
+
 
 
 
