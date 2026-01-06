@@ -66,6 +66,10 @@
 // let y = [11, 2, 33, 4, 25, 6, 17];
 // console.log(y.sort()); // ekhane sort method number gulo ke string hisebe dhore tai 11 1st character ta 1 jeta 2 er theke choto doesnt matter 2nd character ta ki ba ache naki na o sobsomoy 1st character er upor depend kore hishab ta kore r ki like 11 er 1 2 theke chot tai 11 age then 2 ashce then 33er 3rd character ta 3 jeta 4 er theke choto tai 33 er por 4 ashce etc. tai jodi number gulo ke thikmoto sort korte chai tahole amader ke compare function use korte hobe karon JS e kono built in sort method nai ja number gulo ke thikmoto sort kore dey.
 
+// // reverse
+let x = [5, 3,  8, 1, 4, 6, 7];
+console.log(x.reverse()); 
+
 
 
 
