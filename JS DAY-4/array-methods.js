@@ -88,14 +88,14 @@
 // console.log(a.concat(b, c, d));
 
 // // join
-let x = [1, 2, 3, 4, 5];
-console.log(x.join()); // default vabe comma diye join kore 
-console.log(x.join('')); 
-console.log(x.join(' ABC '));
-console.log(x.join(' 123 '));
-console.log(x.join('***'));
-console.log(x.join(' '));
-console.log(x.join('-'));
+// let x = [1, 2, 3, 4, 5];
+// console.log(x.join()); // default vabe comma diye join kore 
+// console.log(x.join('')); 
+// console.log(x.join(' ABC '));
+// console.log(x.join(' 123 '));
+// console.log(x.join('***'));
+// console.log(x.join(' '));
+// console.log(x.join('-'));
 
 
 
