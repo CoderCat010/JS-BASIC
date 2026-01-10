@@ -30,7 +30,23 @@ var sumOfNum = 0;
     num++;
  }
 
+var num = 1;
+var sumOfNum = 0;
+ while(num <= 6){
+    sumOfNum += num;
+    console.log('sum:', sumOfNum);
+    num++;
+    console.log(num);
+ }
 
+var num = 1;
+var sumOfNum = 0;
+ while(num <= 6){
+    sumOfNum += num;
+    console.log(num);
+    console.log('sum:', sumOfNum);
+    num++;
+ }
 
 
  
