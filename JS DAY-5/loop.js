@@ -43,10 +43,18 @@
 
 
 // --------------- FOR LOOP -----------------
-for(var i = 1; i <= 10; i++){
-    console.log(i);
-}
-console.log(i); // ekhane i er value 11 print korbe karon jokhon for loop sesh hobe tokhon i er value 11 hobe tai console log e o 11 print korbe. jodi amra chai na je for loop er baire i er value ta dekhate tahole amra for loop er moddhe console log dite pari. tahole sudhu 1 theke 10 porjonto dekhabe but for loop er baire dile 11 dekhabe. karon for loop er condition onujai i er value barano hocce so baire dile puro loop sesh howar porer value ta dekhabe.
+// for(var i = 1; i <= 10; i++){
+//     console.log(i);
+// }
+// console.log(i); // ekhane i er value 11 print korbe karon jokhon for loop sesh hobe tokhon i er value 11 hobe tai console log e o 11 print korbe. jodi amra chai na je for loop er baire i er value ta dekhate tahole amra for loop er moddhe console log dite pari. tahole sudhu 1 theke 10 porjonto dekhabe but for loop er baire dile 11 dekhabe. karon for loop er condition onujai i er value barano hocce so baire dile puro loop sesh howar porer value ta dekhabe.
+
+// get sum of number 1 to 5
+// var sum = 0; // ekhane sum ta baire decalre korate or valu 0 theke update hoye 15 hoice karon loop er baire ami oke akbare decalre korechi jar sathe num er protita sonkha jog hocce update hocce notun value but jodi eta vitore declare kortam o tahole num er moto protibar loop korto ekdom 5 bar loop ta cholto sum er jeta always 0 thakto jar sathe num er prottekta sonkha jog hoto tai dekhato 1, 2, 3, 4, 5 etc but amra chai total sum ta dekhate tai eta baire declare korci jate prottekbar num er sonkha jog hoto and update hoye total sum ta loop kore kore dekhato. tai baire decalre korci.
+// for(let i = 1; i <= 5; i++){
+//     sum += i;
+//     console.log(sum);
+// }
+
 
 
 
