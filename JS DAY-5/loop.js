@@ -46,6 +46,7 @@
 for(var i = 1; i <= 10; i++){
     console.log(i);
 }
+console.log(i); // ekhane i er value 11 print korbe karon jokhon for loop sesh hobe tokhon i er value 11 hobe tai console log e o 11 print korbe. jodi amra chai na je for loop er baire i er value ta dekhate tahole amra for loop er moddhe console log dite pari. tahole sudhu 1 theke 10 porjonto dekhabe but for loop er baire dile 11 dekhabe. karon for loop er condition onujai i er value barano hocce so baire dile puro loop sesh howar porer value ta dekhabe.
 
 
 
