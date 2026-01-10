@@ -55,11 +55,7 @@
 //     console.log(sum);
 // }
 
-// reverse loop
-// for(var i = 10; i >= 1; i--){
-    // console.log(i);
-    // i--; // ekhane i-- dile 10 theke 1 porjonto jabe kintu prottekbar 2 kore kombe karon for loop er condition onujai o i-- hocce tai 10, 8, 6, 4, 2 print korbe. jodi sudhu i-- na dei tahole 10 theke 1 porjonto serially print korbe. orthat prothmbar komce tarpor abar for loop er condition onujai 1 bar kombe tai 2 kore kombe. jodi na dei tahole serially kombe 1 bar kore kombe thats it
-// }
+
 
 
 
