@@ -14,9 +14,15 @@
 
 
 // --------------- WHILE LOOP -----------------
-var x = 1;
+// var x = 1;
 // while(x <= 10){
 //     console.log(x);
 //     x++;
 // }
+
+
+var num = [1, 2, 3, 4, 5];
+ while(num <= 6){
+    
+ }
 
