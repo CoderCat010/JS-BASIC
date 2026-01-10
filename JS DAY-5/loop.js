@@ -20,15 +20,25 @@
 //     x++;
 // }
 
+//*sum of number 1 to 6
+// var num = 1;
+// var sumOfNum = 0;
+//  while(num <= 6){
+//     console.log(num);
+//     sumOfNum += num;
+//     console.log('sum:', sumOfNum);
+//     num++;
+//  } // ekhane most importent ekta part hocce num++ eta sobar last e dewa jodi eta age uporer jekono tgar age ditam b majkhane ba ekdom sobar upore ditam tahole code cholto thikoi but logic e gondogol lege jeto jemn num++ sobar upore rekhe then console log e num print korle 1 r nito na or 2 dekhato mane barto r ki ak sonkha kore but console log age diye then num++ korate o age 1 print korbe then jog kore kore 6 porjonto jabe etai r ki differance tai eta sobar last e rkha hoice jate serial onujai sonkha baray.
 
-var num = 1;
-var sumOfNum = 0;
- while(num <= 6){
-    console.log(num);
-    sumOfNum += num;
-    console.log('sum:', sumOfNum);
-    num++;
- } // ekhane most importent ekta part hocce num++ eta sobar last e dewa jodi eta age uporer jekono tgar age ditam b majkhane ba ekdom sobar upore ditam tahole code cholto thikoi but logic e gondogol lege jeto jemn num++ sobar upore rekhe then console log e num print korle 1 r nito na or 2 dekhato mane barto r ki ak sonkha kore but console log age diye then num++ korate o age 1 print korbe then jog kore kore 6 porjonto jabe etai r ki differance tai eta sobar last e rkha hoice jate serial onujai sonkha baray.
+// * get even number from 1 to 10
+var evenNum = 1;
+while(evenNum <= 10){
+    if(evenNum % 2 === 0){
+        console.log('even number:', evenNum);
+        console.log(evenNum);
+    }
+    evenNum++;
+}
 
 
 
