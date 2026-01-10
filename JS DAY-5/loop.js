@@ -26,9 +26,7 @@ var sumOfNum = 0;
  while(num <= 6){
     console.log(num);
     sumOfNum += num;
-   
-    
+    console.log(sumOfNum);
     num++;
-
  }
 
