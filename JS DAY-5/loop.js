@@ -22,8 +22,13 @@
 
 
 var num = [1, 2, 3, 4, 5];
+var sumOfNum = 0;
  while(num <= 6){
     console.log(num);
+    sumOfNum += num;
+   
     
+    num++;
+
  }
 
