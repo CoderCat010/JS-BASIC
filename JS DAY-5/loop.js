@@ -21,12 +21,12 @@
 // }
 
 
-var num = [1, 2, 3, 4, 5];
+var num = 1;
 var sumOfNum = 0;
  while(num <= 6){
     console.log(num);
     sumOfNum += num;
-    console.log(sumOfNum);
+    console.log('sum:', sumOfNum);
     num++;
  }
 
