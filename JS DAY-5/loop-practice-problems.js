@@ -28,17 +28,25 @@
 
 
 //------------একটি প্রোগ্রাম লিখো যা ১ থেকে ১০০ পর্যন্ত যত সংখ্যা আছে সেগুলোর মধ্যে যেগুলো ৩ এবং ৫ উভয় দিয়ে ভাগ যায় সেগুলোর যোগফল প্রিন্ট করবে।
-var sumOfNum = 0;
-for(var i = 1; i <= 100; i++){
-    if(i % 3 === 0 && i % 5 === 0){
-    {
-        sumOfNum += i;
-        console.log(sumOfNum);
-    } 
+// var sumOfNum = 0;
+// for(var i = 1; i <= 100; i++){
+//     if(i % 3 === 0 && i % 5 === 0){
+//     {
+//         sumOfNum += i;
+//         console.log(sumOfNum);
+//     } 
+// }
+// }
+// console.log(sumOfNum);
+// console.log(i);
+
+
+// get array elements by length using for loop
+let fruits = ['apple', 'banana', 'mango', 'orange', 'grape'];
+for(var i = 0; i < fruits.length; i++){
+    console.log(fruits[i]); // etar mane hocce array er modde je value gulo ase segulo dekhabe index number onujayi.
+    console.log(i); // etar mane hocce index number ta dekhabe oi array tar.
 }
-}
-console.log(sumOfNum);
-console.log(i);
 
 
 
