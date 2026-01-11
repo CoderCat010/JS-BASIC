@@ -45,7 +45,7 @@
 let fruits = ['apple', 'banana', 'mango', 'orange', 'grape'];
 for(var i = 0; i < fruits.length; i++){
     console.log(fruits[i]); // etar mane hocce array er modde je value gulo ase segulo dekhabe index number onujayi.
-    console.log(i); // etar mane hocce index number ta dekhabe oi array tar.
+    console.log(i); 
 }
 
 
