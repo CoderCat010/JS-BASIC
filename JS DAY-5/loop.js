@@ -5,7 +5,6 @@
 //     console.log(forOfLoop);
 // } // jodi forofloop de tar mane puro array ta cacchi o loop kore puro array tai barbar dekhabe but jodi value dei tahole er mane hocce forofloop er moddhe je value gulo ache ami segulo ke dekhte cacchi tai o prottekta value loop kore kore kore jabe o dekhabe length er upor depend kore jemon ekhane length 5 o 5 bar loop kore puro array ta dekhabe.
 
-
 // var forofloop2 = ['a', 'b', 'c', 'd', 'e'];
 // for(var getvalue of forofloop2){
 //     console.log(getvalue);
@@ -20,7 +19,7 @@
 //     x++;
 // }
 
-//*sum of number 1 to 6
+//* sum of number 1 to 6
 // var num = 1;
 // var sumOfNum = 0;
 //  while(num <= 6){
@@ -55,7 +54,7 @@
 //     console.log(sum);
 // }
 
-// reverse loop
+// * reverse loop
 // for(var i = 10; i >= 1; i--){
     // console.log(i);
     // i--; // ekhane i-- dile 10 theke 1 porjonto jabe kintu prottekbar 2 kore kombe karon for loop er condition onujai o i-- hocce tai 10, 8, 6, 4, 2 print korbe. jodi sudhu i-- na dei tahole 10 theke 1 porjonto serially print korbe. orthat prothmbar komce tarpor abar for loop er condition onujai 1 bar kombe tai 2 kore kombe. jodi na dei tahole serially kombe 1 bar kore kombe thats it
