@@ -38,6 +38,7 @@ const battle = {
 }
 // battle.weight = '2kg';// add new property
 battle.price = 80; // updated value 
+delete battle.color; // deleted color property
 console.log(battle); // note: ekhane obj hocce non primitive orthat property chnage update even whole obj tar refernce o change kora jabe until amra const eta diye declare na kori mane let var diye egulo allowed scope er differnet syntax er karone but joi const diye declare kori tahole value change kora jabe but whole obj ta change kora jabe na its not changable when we declare by const variable. 
 // ---> for example:
 // battle.price = 100;
