@@ -1,7 +1,15 @@
----------------JS e 5 dhoroner loop ache 
+---------------JS e 6 dhoroner loop ache 
 * for loop
 * while loop 
 * do while loop 
 * for of loop 
 * for in loop
+* foreach loop
 ---------------
+
+*** for loop use kora hoy array er value gulo access korte.
+*** while loop use kore kono sorto sapekkhe ekta loop chalate akoi kaj barbar korte.
+*** for of use kore array strings and onno data type access korar jonno.
+*** for in loop use kore object data type er vitore property gulo access korte
+*** while loop, for of loop, for in loop ei tintai beshi hoy.
+baki gulo pray same but temon use kora hoy na...
