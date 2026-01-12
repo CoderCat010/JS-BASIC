@@ -38,7 +38,7 @@ console.log(student.physics.marks); */
 
 
 // *Count the number of properties.
-let student = {
+/*let student = {
     name: 'Ariana Grande',
     age: 21,
     city: 'Gaibandha',
@@ -54,7 +54,22 @@ for(let keys in student){
     console.log(keys);
     
 }
-console.log(count);
+console.log(count); */
+
+
+
+// Loop through an object and print the key-value pairs with their types
+let myObject = {
+    name: 'John Doe',
+    age: 25,
+    city: 'Example City',
+    isStudent: true
+};
+
+for(let checkType in myObject){
+    console.log(`key: `+ checkType+ ' | '+`type: `+ typeof checkType, `value: `+ myObject[checkType]+ ' | '+`type: `+ typeof myObject[checkType]);
+}
+
 
 
 
