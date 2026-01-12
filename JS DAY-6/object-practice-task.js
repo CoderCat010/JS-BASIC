@@ -34,3 +34,27 @@
     }
 };
 console.log(student.physics.marks); */
+
+
+
+// *Count the number of properties.
+let student = {
+    name: 'Ariana Grande',
+    age: 21,
+    city: 'Gaibandha',
+    isStudent: true
+};
+// let keys = Object.keys(student)
+// console.log(keys.length);
+
+// count it by loop
+let count = 0;
+for(let keys in student){
+    count++;
+    console.log(keys);
+    
+}
+console.log(count);
+
+
+
