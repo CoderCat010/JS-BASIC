@@ -44,6 +44,25 @@
 
 
 
+// const battle = {
+//     brand: 'chud ling pong',
+//     price: 40,
+//     color: 'white',
+//     isClean: true,
+//     numArr: [1, 2, 3, 4,5],
+//     anotherObj: {
+//         name: 'cat',
+//         color: 'dark',
+//         age: 2,
+//         owner: 'megh'
+//     }
+// }
+// battle.numArr[0] = 100;
+// console.log(battle.numArr);
+// console.log(battle.numArr[0] = 200, battle.numArr);
+
+
+
 
 
 
