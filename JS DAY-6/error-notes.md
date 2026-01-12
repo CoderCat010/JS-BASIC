@@ -42,3 +42,18 @@ console.log(Object(battle)); // eita dile bujacce object mane battle object ta p
 
 console.log(Object.values(battle)); // etar mane hocce ami just value gulo pete cacchi orthat values varibale decalare kore er moddhe only value guloi dekhabe property dekhabe na
 
+
+
+====> NOTE: 3
+const battle = {
+    brand: 'chud ling pong',
+    price: 40,
+    color: 'white',
+    isClean: true,
+}
+for(const property in battle){
+    console.log(property);// ekhane dot notation diye korle amra only loop through kore key name gulo pabo akta akta kore.
+
+    console.log(battle[property]); // bracket notation diye korle amra dynamically key er value gulo o acess korte parbo loop through kore.
+} 
+
