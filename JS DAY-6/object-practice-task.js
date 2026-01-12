@@ -59,7 +59,7 @@ console.log(count); */
 
 
 // Loop through an object and print the key-value pairs with their types
-let myObject = {
+/* let myObject = {
     name: 'John Doe',
     age: 25,
     city: 'Example City',
@@ -67,12 +67,13 @@ let myObject = {
 };
 
 for(let checkType in myObject){
-    // console.log(`key: `+ checkType+ ' | '+`type: `+ typeof checkType, `value: `+ myObject[checkType]+ ' | '+`type: `+ typeof myObject[checkType]);
+    console.log(`key: `+ checkType+ ' | '+`type: `+ typeof checkType, `value: `+ myObject[checkType]+ ' | '+`type: `+ typeof myObject[checkType]);
 
     // or
-    // console.log(`key: `+ checkType+ ' | '+`type: `+ typeof checkType);
-    // console.log(`Value: `+ myObject[checkType]+ ' | '+`type: `+ typeof myObject[checkType]);
+    console.log(`key: `+ checkType+ ' | '+`type: `+ typeof checkType);
+    console.log(`Value: `+ myObject[checkType]+ ' | '+`type: `+ typeof myObject[checkType]);
 } 
+ **/
 
 
 
