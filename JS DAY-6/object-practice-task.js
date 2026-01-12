@@ -24,7 +24,7 @@
 
 
 //* Display the physics marks as output.
-const student = {
+/* const student = {
     name: "Hamim Sakep",
     id: 5421,
     physics: {
@@ -33,4 +33,4 @@ const student = {
         marks: 30
     }
 };
-console.log(student.physics.marks); 
+console.log(student.physics.marks); */
