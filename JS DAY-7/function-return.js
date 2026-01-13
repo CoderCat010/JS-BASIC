@@ -13,11 +13,11 @@
 // console.log(sumNum(5, 5));
 
 
-function con(number){
-    if(number % 2 === 0){
-        return true;
-    }else{
-        return false;
-    }
-}
-console.log(con(2));
+// function con(number){
+//     if(number % 2 === 0){
+//         return true;
+//     }else{
+//         return false;
+//     }
+// }
+// console.log(con(2));
