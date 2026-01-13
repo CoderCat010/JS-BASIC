@@ -5,8 +5,11 @@
 // porashuna();
 
 
-// perameter 
+//--------> PERAMETER OF FUNCTION
 // function pera(num){
 //     console.log(num);
 // }
 // pera(2)
+
+
+// 
