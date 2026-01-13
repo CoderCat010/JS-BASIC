@@ -6,7 +6,7 @@
 
 
 // perameter 
-function pera(num){
-    console.log(num);
-}
-pera(2)
+// function pera(num){
+//     console.log(num);
+// }
+// pera(2)
