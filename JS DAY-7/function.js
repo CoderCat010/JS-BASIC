@@ -5,3 +5,8 @@
 // porashuna();
 
 
+// perameter 
+function pera(num){
+    console.log(num);
+}
+pera(2)
