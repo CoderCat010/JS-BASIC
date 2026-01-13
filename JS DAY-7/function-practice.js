@@ -17,3 +17,21 @@ console.log(multiplyNumbers(1, 2, 3, 4));
 console.log(checkEvenOdd(2));
 */
 
+
+//----> Task-3: Write a function called make_avg() which will take an array of integers and the size of that array and return the average of those values.
+/* function make_avg(arrIntegers){
+    let getArrLength = 0;
+    for(const values of arrIntegers){
+        getArrLength += values;
+    }
+    let avg = getArrLength / arrIntegers.length;
+    return avg
+}
+let arr = [1, 2,3, 4, 5, 6, 7, 8, 9];
+console.log(make_avg(arr));
+*/
+
+
+
+
+
