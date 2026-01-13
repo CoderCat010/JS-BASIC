@@ -21,3 +21,27 @@
 //     }
 // }
 // console.log(con(2));
+
+
+function arr(nums){
+    sum = 0;
+    for(const numbers of nums){
+       sum += numbers;
+    }
+    return sum;
+}
+let x = [1, 2, 3, 4, 5];
+let result = arr(x);
+console.log(result);
+
+
+
+
+
+
+
+
+
+
+
+
