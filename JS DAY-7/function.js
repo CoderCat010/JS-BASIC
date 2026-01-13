@@ -5,7 +5,8 @@
 // porashuna();
 
 
-//--------> PERAMETER OF FUNCTION
+
+//--------> PERAMETERS OF FUNCTION
 // function pera(num){
 //     console.log(num);
 // }
@@ -22,6 +23,14 @@
 //     console.log(num1 * num2);
 // }
 // square(3, 4)
+
+
+
+
+
+
+
+
 
 
 
