@@ -23,17 +23,31 @@
 // console.log(con(2));
 
 
-function arr(nums){
-    sum = 0;
-    for(const numbers of nums){
-       sum += numbers;
-    }
-    return sum;
-}
-let x = [1, 2, 3, 4, 5];
-let result = arr(x);
-console.log(result);
+// function arr(nums){
+//     sum = 0;
+//     for(const numbers of nums){
+//        sum += numbers;
+//     }
+//     return sum;
+// }
+// let x = [1, 2, 3, 4, 5];
+// let result = arr(x);
+// console.log(result);
 
+
+
+function getEvenNumbers(numbers){
+    const evensOnly = [];
+    for(const values of numbers){
+        if(values % 2 === 0){
+            evensOnly.push(values)
+        }
+    }
+    return evensOnly;
+} 
+let arrEvenNumbers = [1, 2, 3, 4, 5, 6, 44, 555, 3, 56, 23, 88, 99];
+let getResult = getEvenNumbers(arrEvenNumbers);
+console.log(getResult);
 
 
 
