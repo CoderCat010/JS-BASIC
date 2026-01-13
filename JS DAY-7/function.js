@@ -1,4 +1,7 @@
-function porashuna(){
-    console.log('port boshhhhhhhhhhhh!!!');
-}
-porashuna()
+// function porashuna(){
+//     console.log('port boshhhhhhhhhhhh!!!');
+//     return;
+// }
+// porashuna();
+
+
