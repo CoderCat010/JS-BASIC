@@ -18,10 +18,10 @@
 // addSum(5, 5)
 
 
-function square(num1, num2){
-    console.log(num1 * num2);
-}
-square(3, 4)
+// function square(num1, num2){
+//     console.log(num1 * num2);
+// }
+// square(3, 4)
 
 
 
